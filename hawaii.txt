@@ -1,10 +1,11 @@
 
-Hawaii
-
-•Annexed 1898
-•Made a state in 1959
-•Interest began in the 1820's
-•A strong foothold was aquired through sugar trade
-•In 1893, white sugar growers overthrough the Queen 
-•Annexation = no tariffs
-•William McKinley
+<h1>Hawaii</h1>
+<ul>
+  <li>Annexed 1898</li>
+  <li>Made a state in 1959</li>
+  <li>Interest began in the 1820's</li>
+  <li>A strong foothold was aquired through sugar trade</li>
+  <li>In 1893, white sugar growers overthrough the Queen </li>
+  <li>Annexation = no tariffs</li>
+  <li>William McKinley</li>
+</ul>
